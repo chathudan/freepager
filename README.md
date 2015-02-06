@@ -1,3 +1,5 @@
+[![AndroidLibs](https://img.shields.io/badge/AndroidLibs-Freepager-brightgreen.svg?style=flat)](https://www.android-libs.com/lib/freepager?utm_source=github-badge&utm_medium=github-badge&utm_campaign=github-badge)
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-freepager-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1478)
 # freepager 
 
